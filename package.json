@@ -1,0 +1,19 @@
+{
+  "name": "odins-eye",
+  "version": "1.0.0",
+  "description": "Offline OCR — scan images and screen for copyable text",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "node scripts/setup-tessdata.js"
+  },
+  "keywords": ["ocr", "tesseract", "offline", "screen-capture"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "tesseract.js": "^5.0.4"
+  }
+}
