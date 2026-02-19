@@ -1,3 +1,4 @@
+
 # Odin's EYE
 
 **Offline OCR** — scan images and your screen for copyable text. Runs entirely on your computer; no data is sent to the internet.
@@ -40,3 +41,7 @@ After `npm install`, the English language data is stored in `ocr-assets/tessdata
 ## License
 
 MIT
+
+# Odin-s-Eye-OCR
+Odin’s Eye is a powerful, web-based Optical Character Recognition (OCR) application built on top of the open-source Tesseract OCR engine. Designed for accuracy, speed, and usability, it transforms images and scanned documents into editable, searchable text directly from your browser.
+
