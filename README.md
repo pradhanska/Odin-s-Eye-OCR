@@ -24,6 +24,9 @@ All processing is done locally with [Tesseract.js](https://github.com/naptha/tes
    ```
 
 2. Start the app:
+   Run start.cmd file
+
+   Or
 
    ```bash
    npm start
